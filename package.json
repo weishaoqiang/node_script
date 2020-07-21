@@ -5,7 +5,8 @@
     "dev": "node bin/commit.js"
   },
   "bin": {
-    "github-pages-commit": "bin/commit.js"
+    "github-pages-commit": "bin/commit.js",
+    "github-pages-push": "bin/git_push.js"
   },
   "main": "index.js",
   "author": "swei",
