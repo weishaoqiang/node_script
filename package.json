@@ -1,0 +1,17 @@
+{
+  "name": "@swei/script",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "node bin/commit.js"
+  },
+  "bin": {
+    "github-pages-commit": "bin/commit.js"
+  },
+  "main": "index.js",
+  "author": "swei",
+  "license": "ISC",
+  "description": "test node script",
+  "dependencies": {
+    "shelljs": "^0.8.4"
+  }
+}
